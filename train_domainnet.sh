@@ -1,0 +1,1 @@
+python train_eval.py -d sdomainet --data_root data/sdomainet --training_string head qkv.weight

@@ -1,0 +1,1 @@
+python train_eval.py -d cifar100 --data_root data/cifar100 --training_string head qkv.weight

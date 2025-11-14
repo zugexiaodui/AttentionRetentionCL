@@ -1,0 +1,1 @@
+python train_eval.py -d imagenet_r -t 20 --data_root data/imagenet_r --training_string head qkv.weight
