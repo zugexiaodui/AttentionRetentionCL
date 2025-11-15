@@ -1,4 +1,6 @@
 # Attention Retention for Continual Learning with Vision Transformers
+[Paper link](https://drive.google.com/file/d/1tqB482Ukwvn8ouBeUhHusInaPhzAoLTl/view?usp=drive_link)
+[Suppl link](https://drive.google.com/file/d/1zUMnYq-cIcI2k20_zfkZQ9RI8f3B2vsN/view?usp=drive_link)
 
 ## Environment
 
