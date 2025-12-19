@@ -68,7 +68,7 @@ Change the `--seed` argument to use different seeds (e.g., 2026, 2027).
 
 ## Citation
 ```
-@inproceedings{lu2025consistent,
+@inproceedings{lu2026arcl,
 	title = {Attention Retention for Continual Learning with Vision Transformers},
 	author = {Lu, Yue and Zhou, Xiangyu and Zhang, Shizhou and Xing, Yinghui and Liang, Guoqiang and Zhang, Wencong},
 	booktitle = {Proceedings of the {{AAAI Conference}} on {{Artificial Intelligence}}},
